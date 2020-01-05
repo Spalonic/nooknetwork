@@ -148,6 +148,11 @@ html, body {
 }
 
 
+img {
+		animation: shake 0.2s;
+	animation-iteration-count: infinite;
+}
+
 
 
 
