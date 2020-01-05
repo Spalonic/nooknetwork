@@ -153,6 +153,21 @@ img {
 	animation-iteration-count: infinite;
 }
 
+#Center1 img {
+	top: -40px;
+	
+}
+
+h6 {
+	color: green;
+   font-family: "Comic Sans MS", "Comic Sans";
+ position: relative;
+   left: 50px;
+   animation: shake 5s;
+	animation-iteration-count: infinite;
+	animation: rotation 0.2s infinite linear;
+}
+
 
 
 
