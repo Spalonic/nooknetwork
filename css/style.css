@@ -168,6 +168,11 @@ h6 {
 	animation: rotation 0.2s infinite linear;
 }
 
+html, body {
+    max-width: 100%;
+    overflow-x: hidden;
+}
+
 
 
 
